@@ -18,7 +18,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
-import org.springframework.core.io.Resource;
 import org.springframework.stereotype.Service;
 
 @Service
@@ -30,9 +29,6 @@ public class BirtReportService implements ApplicationContextAware, DisposableBea
 	
 	private HTMLServerImageHandler htmlImageHandler = new HTMLServerImageHandler();
 	
-	@SuppressWarnings("unused")
-	@Autowired
-	private Resource resourceLoader;
 	@SuppressWarnings("unused")
 	@Autowired
 	private ServletConfig servletContext;
