@@ -49,7 +49,7 @@ public class BirtReportService implements ApplicationContextAware, DisposableBea
 	      .createFactoryObject(IReportEngineFactory.EXTENSION_REPORT_ENGINE_FACTORY);
 	    birtEngine = factory.createReportEngine(config);
 	    imageFolder = System.getProperty("user.dir") + File.separatorChar + reportsPath + imagesPath;
-	//	        loadReports();
+        loadReports();
 	}
 	
 	@Override
