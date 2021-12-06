@@ -1,5 +1,5 @@
-/home/aymaru/eclipse-workspace/birtengine/src/main/java/org/smartnow/birtengine/engine/ReportEngineApplication.java
-/home/aymaru/eclipse-workspace/birtengine/src/main/java/org/smartnow/birtengine/engine/dto/Report.java
-/home/aymaru/eclipse-workspace/birtengine/src/main/java/org/smartnow/birtengine/engine/controller/BirtReportController.java
-/home/aymaru/eclipse-workspace/birtengine/src/main/java/org/smartnow/birtengine/engine/dto/OutputType.java
-/home/aymaru/eclipse-workspace/birtengine/src/main/java/org/smartnow/birtengine/engine/service/BirtReportService.java
+/Users/psolano/git/other/birtengine-test/src/main/java/org/smartnow/birtengine/engine/dto/OutputType.java
+/Users/psolano/git/other/birtengine-test/src/main/java/org/smartnow/birtengine/engine/controller/BirtReportController.java
+/Users/psolano/git/other/birtengine-test/src/main/java/org/smartnow/birtengine/engine/ReportEngineApplication.java
+/Users/psolano/git/other/birtengine-test/src/main/java/org/smartnow/birtengine/engine/dto/Report.java
+/Users/psolano/git/other/birtengine-test/src/main/java/org/smartnow/birtengine/engine/service/BirtReportService.java
