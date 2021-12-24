@@ -1,5 +1,6 @@
 package org.smartnow.birtengine.engine.dto;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import lombok.AllArgsConstructor;
@@ -16,6 +17,7 @@ public class Report {
     public Report(String title, String name) {
         this.title = title;
         this.name = name;
+        this.parameters = new ArrayList<Report.Parameter>();
     }
 
     @Data

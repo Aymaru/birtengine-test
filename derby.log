@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Dec 23 09:18:19 CST 2021:
+Booting Derby (version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546)) instance a816c00e-017d-e7df-1e8d-00000275f908 
+on database directory classpath:BirtSample in READ ONLY mode with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@42a57993. 
+Loaded from file:/home/aymaru/.m2/repository/com/innoventsolutions/birt/runtime/org.apache.derby_10.11.1.1_v201605202053/4.8.0/org.apache.derby_10.11.1.1_v201605202053-4.8.0.jar.
+java.vendor=Private Build
+java.runtime.version=14.0.2+12-Ubuntu-120.04
+user.dir=/home/aymaru/Documents/smartnow/proyectos/spring-boot/birtengine-test
+os.name=Linux
+os.arch=amd64
+os.version=5.11.0-43-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
